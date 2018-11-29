@@ -1,0 +1,39 @@
+[
+    {
+        "Name" : "MeowMeow",
+        "Type" : "Cat",
+        "characteristics" :{
+            "color" : "White",
+            "Weight" : "3lbs",
+            "foods" : {
+                "likes" : ["tuna","milk","rice"],
+                "dislikes" : ["han","poop","mud"]
+            }
+        }
+    },
+    {
+        "Name" : "Tommy",
+        "Type" : "Dog",
+        "characteristics" :{
+            "color" : "Yellow",
+            "Weight" : "10lbs",
+            "foods" : {
+                "likes" : ["mutton","bread","biscuits"],
+                "dislikes" : ["poop","ham","chicken"]
+            }
+        }
+    },
+    {
+        "Name" : "Pussy",
+        "Type" : "Cat",
+        "characteristics" :{
+            "color" : "Pink",
+            "Weight" : "2.65lbs",
+            "foods" : {
+                "likes" : ["tuna","butter","pudding"],
+                "dislikes" : ["salt","bread","mutton"]
+            }
+        }
+    },
+    
+]
